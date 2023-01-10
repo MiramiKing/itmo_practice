@@ -3,7 +3,6 @@ import './App.scss';
 
 import {Routes, Route, Navigate} from 'react-router-dom';
 import Layout from './layout/Layout';
-import {Glossary} from "./data/glossary";
 import NotFoundPage from './pages/NotFoundPage';
 import GlossaryPage from './pages/GlossaryPage';
 import MindMapGraph from './pages/MindMapPage';
