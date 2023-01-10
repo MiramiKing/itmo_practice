@@ -1,7 +1,7 @@
 {
   "name": "itmo_practice",
   "version": "0.1.0",
-  "homepage": "https://MiramiKing.github.io/itmo_practice",
+  "homepage": "https://miramiking.github.io/itmo_practice/glossary",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
