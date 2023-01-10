@@ -4,3 +4,4 @@ export interface IGlossary {
     definition: string;
     source: string;
 }
+
