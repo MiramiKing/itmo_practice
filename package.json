@@ -1,7 +1,7 @@
 {
   "name": "itmo_prctice",
   "version": "0.1.1",
-  "homepage": "https://miramiking.github.io/itmo_prctice",
+  "homepage": "https://miramiking.github.io/itmo_practice/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
