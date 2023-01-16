@@ -16,8 +16,7 @@ function App() {
                     <Route index element={<Navigate to='/glossary' />} />
                     <Route path='/glossary' element={<GlossaryPage />} />
                     <Route path='/mindmap' element={<MindMapGraph />} />
-                    <Route path='/' element={<GlossaryPage />} />
-                    <Route path='/*' element={<NotFoundPage />} />
+                    <Route path='/*' element={<GlossaryPage />} />
                 </Route>
             </Routes>
         </>
